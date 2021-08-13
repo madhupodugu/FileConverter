@@ -1,0 +1,4 @@
+id,name,description,commas_used,created_at,updated_at
+1,Test,Test Entry,",,,",2020-01-01,2020-01-01
+2,Test1,Test 1 Entry,",,,,,,",2020-01-01,2020-10-05
+3,Test2,Test 2 Entry,",",2020-03-04,2020-03-05

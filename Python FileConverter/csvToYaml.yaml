@@ -1,0 +1,18 @@
+- commas_used: ',,,'
+  created_at: '2020-01-01'
+  description: Test Entry
+  id: '1'
+  name: Test
+  updated_at: '2020-01-01'
+- commas_used: ',,,,,,'
+  created_at: '2020-01-01'
+  description: Test 1 Entry
+  id: '2'
+  name: Test1
+  updated_at: '2020-10-05'
+- commas_used: ','
+  created_at: '2020-03-04'
+  description: Test 2 Entry
+  id: '3'
+  name: Test2
+  updated_at: '2020-03-05'

@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "name": "Test",
+        "description": "Test Entry",
+        "commas_used": ",,,",
+        "created_at": "2020-01-01",
+        "updated_at": "2020-01-01"
+    },
+    {
+        "id": "2",
+        "name": "Test1",
+        "description": "Test 1 Entry",
+        "commas_used": ",,,,,,",
+        "created_at": "2020-01-01",
+        "updated_at": "2020-10-05"
+    },
+    {
+        "id": "3",
+        "name": "Test2",
+        "description": "Test 2 Entry",
+        "commas_used": ",",
+        "created_at": "2020-03-04",
+        "updated_at": "2020-03-05"
+    }
+]
